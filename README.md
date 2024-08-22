@@ -1,1 +1,1 @@
-# quiz click for preview  https://mddanish11.github.io/quiz/
+# quiz click for preview  https://quiz3924.netlify.app
